@@ -2,8 +2,6 @@
 legal help app , made for an ideathon
 # NyaySahayak - Accessible Justice for All
 
-![NyaySahayak Hero](https://picsum.photos/seed/nyay1/1200/400)
-
 **NyaySahayak** is an AI-powered platform designed to simplify legal documentation, provide accessible legal aid, and ensure the secure handling of sensitive information. Our mission is to bridge the gap between citizens and the legal system, making justice more transparent, efficient, and accessible to everyone.
 
 ## The Problem
@@ -45,26 +43,6 @@ To get a local copy up and running, follow these simple steps.
 *   Node.js (v18 or later)
 *   npm or yarn
 
-### Installation
-
-1.  Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/nyaysahayak.git
-    ```
-2.  Navigate to the project directory:
-    ```sh
-    cd nyaysahayak
-    ```
-3.  Install NPM packages:
-    ```sh
-    npm install
-    ```
-4.  Run the development server:
-    ```sh
-    npm run dev
-    ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ---
 
